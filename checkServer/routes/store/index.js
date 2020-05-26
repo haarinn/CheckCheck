@@ -5,6 +5,6 @@ var router = express.Router();
 //목적 주소: :3000/store/list 등등
 
 router.use('/lookupStoreList',require('./lookupStoreList'));
-router.use('/store',require('./store'));
+router.use('/signupStore',require('./signupStore'));
 
 module.exports = router;

@@ -4,7 +4,7 @@ const dbConfig = {
     host: 'localhost',
     port: 3306,
     user: 'root',
-    password: 'sm34986713',
+    password: 'gkgk1234',
     database: 'checkcheck', //db schema이름
 }
 
